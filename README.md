@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on a rouge-like horror game that has proceduiral generation every level.
+- 🌱 I’m currently learning at University working on my lower division courses as a Sophmore.
+- 👯 I’m looking to collaborate with internship programs!
+
 <!--
 **Uselesstau/Uselesstau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
