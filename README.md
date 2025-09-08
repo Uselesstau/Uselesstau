@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on a rouge-like horror game that has proceduiral generation every level.
-- 🌱 I’m currently learning at University working on my lower division courses as a Sophmore.
+- 🔭 I’m recently started a RPG project with multiple classes and an open world.
+- 🌱 I’m currently learning at University working on my uper division courses as a Junior.
 - 👯 I’m looking to collaborate with internship programs!
 
 <!--
