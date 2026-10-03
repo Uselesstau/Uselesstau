@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- 🔭 I’m recently started a RPG project with multiple classes and an open world.
-- 🌱 I’m currently learning at University working on my uper division courses as a Junior.
-- 👯 I’m looking to collaborate with internship programs!
+- 🔭 I’m analyzing on a collection of binary star collisions and mergers to learn more about globular clusters.
+- 🌱 I’m currently learning at University working on my upper division courses as a Senior.
+- ⚡ I’m also passionate in game design and make many small projects that might develop into something bigger!
 
 <!--
 **Uselesstau/Uselesstau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
